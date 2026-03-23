@@ -17,8 +17,6 @@ MYSQL is just but an open-source database. It is a relational database system wh
 1. Go to your web browser and search https://www.mysql.com/downloads/
 2. Click on download now and download according to your laptop operating system.
 
-! [](..)
-
 #### Step 2: Intallation of MYSQL.
 
 1. Open the downloded file.
